@@ -1,7 +1,6 @@
-php8 alpine with:
+PHP8 alpine with:
 
-- postgres
-- redis
-- alpine
-- imap
-- jit
+- Postgres
+- Redis
+- Imap
+- Jit

@@ -7,5 +7,3 @@ RUN set -ex && apk update && apk add --no-cache zip unzip libpq imap-dev postgre
 WORKDIR /code
 EXPOSE 9000
 CMD php-fpm
-
-# check: php -m | grep 'oci8'

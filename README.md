@@ -1,4 +1,4 @@
-PHP8 alpine with:
+PHP 8.1 alpine with:
 
 - Postgres
 - Redis
